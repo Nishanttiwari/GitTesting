@@ -9,6 +9,9 @@ using Guestbook.Controllers;
 
 namespace Guestbook.Tests.Controllers
 {
+    /// <summary>
+    /// Holds unit test scripts for Gustbook controller.
+    /// </summary>
     [TestClass]
     public class HomeControllerTest
     {
